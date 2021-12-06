@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ignaviaa/ignaviaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ABOUT ME
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prerna Sharma!](https://www.linkedin.com/in/aakash9868sinha/) 
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<a href="https://www.linkedin.com/in/prerna-sharma-1a2142204/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:prerna.staugustine8@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
+
+### About Me 🚀
+🌱  I’m a 1st year B.Tech in IT student. </br>
+👨‍💻  I am passionate about exploring new fields & I enjoy learning new things. </br>
+👯  Apart from that i love watching anime and listening to music. </br>
+
+
+![Prerna's github stats](https://github-readme-stats.vercel.app/api?username=ignaviaa&show_icons=true&hide_border=true)&nbsp;&nbsp;
+<br />
