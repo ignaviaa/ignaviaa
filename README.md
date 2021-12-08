@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # ABOUT ME
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prerna Sharma!](https://www.linkedin.com/in/prerna-sharma-1a2142204/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prerna Sharma](https://www.linkedin.com/in/prerna-sharma-1a2142204/) 
 <!--
 
 
