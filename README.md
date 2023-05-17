@@ -25,6 +25,7 @@
 - 🎨 Apart from that i'm a Graphic Designer and a freelancer too.
 - 🔭 I love to explore new fields and getting to know different technologies.
 - 🎲 In my free time , i love to play ctfs, watch anime and listen to songs.
+- 📌 I’m currently open for new opportunities and collaboration.
 
 <br>
 
