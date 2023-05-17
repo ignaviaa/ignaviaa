@@ -19,7 +19,7 @@
 />
 
 
-- 🎒 An undergraduate student at RCC Institute of Information Technology.
+- 🎒 An IT undergraduate student at RCC Institute of Information Technology.
 - 👩🏻‍💻 I'm a Front-end Developer & UI/UX Designer.
 - ⚛️ I'm currently learning React.
 - 🎨 Apart from that i'm a Graphic Designer and a freelancer too.
