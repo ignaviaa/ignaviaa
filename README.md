@@ -9,7 +9,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/ignaviaa/ignaviaa/blob/main/assests/glasses-anime.gif" width = "25"></picture> **About me**
+## <picture><img src = "https://github.com/ignaviaa/ignaviaa/blob/main/assests/glasses-anime.gif" width ="25px"></picture> **About me**
 <br>
 
 <img align="right"
