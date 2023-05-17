@@ -108,6 +108,7 @@
 <a href="mailto:prerna.staugustine8@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  ignaviaa-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+	<br>
 
   <a href="https://discord.com/users/707842407978500138">
     <img src="https://img.shields.io/badge/Discord: ignaaa._-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" t=discord style="margin-bottom: 5px;" />
